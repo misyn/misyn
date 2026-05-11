@@ -1,16 +1,33 @@
-## Hi there 👋
+# misyn
+[![Languages](https://skillicons.dev/icons?i=lua,js,python,css,cpp,c)](https://skillicons.dev)
 
-<!--
-**misyn/misyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- freelance luau exploit script developer
+- building tools, hubs, and utilities for the scripting community
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* roblox ui library developer 
+* owner/developer of modular script hub
+* focused on creating usable, optimized, and clean tools
+* collect and archive useful utilities for script development
+* interested in reverse engineering, ui systems, and automation
+
+## projects
+
+* modular
+* ui libraries & loaders
+* executor utility tools
+* debugging / decompiling resources
+* script optimization utilities
+
+## contact
+
+* discord: `1456484800352227486`
+
+
+## views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=misyn&color=yellow&style=flat-square">
+</p>
+
