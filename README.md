@@ -1,4 +1,4 @@
-# misyn
+# misyn <img src="https://komarev.com/ghpvc/?username=misyn&color=blue&style=flat-square">
 [![Languages](https://skillicons.dev/icons?i=lua,js,python,css,cpp,c)](https://skillicons.dev)
 
 - freelance luau exploit script developer
@@ -23,11 +23,3 @@
 ## contact
 
 * discord: `1456484800352227486`
-
-
-## views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=misyn&color=yellow&style=flat-square">
-</p>
-
